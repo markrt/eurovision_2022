@@ -106,3 +106,48 @@ spotify_data %>%
        subtitle = "Big Five looking slow",
        caption = "@markrt")
 
+
+
+### look i'm a bit sceptical of the "popularity" variable
+# but let's see if one semi was tougher than the other
+
+spotify_data %>% 
+  filter(semi_outcome != "Big Five") %>% 
+  group_by(which_semi) %>% 
+  mutate(mean_popularity = 
+           mean(track.popularity)) %>% 
+  ggplot() + 
+  aes(y = fct_rev(which_semi),
+      x = track.popularity) + 
+  geom_point(aes(x = mean_popularity),
+             size = 10,
+             colour = "skyblue") +
+  geom_point() + 
+  theme_minimal() + 
+  labs(x = "Spotify's mysterious popularity variable",
+       y = "")
+
+# with the lot
+spotify_data %>% 
+  filter(semi_outcome != "Big Five") %>% 
+  group_by(which_semi) %>% 
+  summarise(mean_popularity = 
+           mean(track.popularity)) 
+# 60.5 vs 58.2
+# wipe out the one weird outlier
+spotify_data %>% 
+  filter(semi_outcome != "Big Five" &
+           track.popularity > 40) %>% 
+  group_by(which_semi) %>% 
+  summarise(mean_popularity = 
+              mean(track.popularity)) 
+# leaves them fairly similar to one another 
+
+# all three of these qualified!!!
+spotify_data %>% 
+  filter(tempo > 124 & 
+           tempo < 132)
+# and these two!!!
+spotify_data %>% 
+  filter(tempo > 82 & 
+           tempo < 89)
