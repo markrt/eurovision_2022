@@ -1,0 +1,41 @@
+artist,country,track.name,time_signature,tempo,key_mode,key_name,mode_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,track.popularity
+Subwoolfer,Norway,Give That Wolf A Banana,4,124.075,G minor,G,minor,0.737,0.526,7,-10.101,0,0.0411,0.2,2.78e-6,0.0884,0.554,68
+KALUSH,Ukraine,Stefania (Kalush Orchestra),4,104.976,D major,D,major,0.832,0.817,2,-5.182,1,0.0422,0.145,0.00169,0.113,0.324,48
+S10,Netherlands,De Diepte,4,90.043,D minor,D,minor,0.502,0.397,2,-8.819,0,0.0282,0.378,3.44e-5,0.143,0.159,74
+Mahmood & Blanco,Italy,Brividi,4,122.962,G major,G,major,0.523,0.614,7,-4.435,1,0.0347,0.448,0,0.254,0.342,78
+Cornelia Jakobs,Sweden,Hold Me Closer,4,96.819,F# major,F#,major,0.489,0.616,6,-7.599,1,0.0382,0.107,0,0.145,0.168,73
+Chanel,Spain,SloMo,4,104.962,C# minor,C#,minor,0.728,0.814,1,-3.29,0,0.0571,0.125,0.00448,0.0927,0.594,69
+Alvan & Ahez,France,Fulenn (feat. Ahez),4,120.033,F# major,F#,major,0.747,0.838,6,-7.44,1,0.112,0.0118,3.1e-6,0.242,0.482,55
+Sam Ryder,United Kingdom,SPACE MAN,4,79.978,B major,B,major,0.467,0.828,11,-2.22,1,0.0489,0.181,0,0.102,0.334,67
+Amanda Tenfjord,Greece,Die Together,4,149.982,F major,F,major,0.475,0.366,5,-8.365,1,0.0661,0.122,0,0.102,0.202,63
+MARO,Portugal,"saudade, saudade",3,82.992,A# minor,A#,minor,0.644,0.337,10,-11.261,0,0.0357,0.681,2.08e-4,0.108,0.376,64
+Rosa Linn,Armenia,SNAP,4,169.985,C major,C,major,0.563,0.639,0,-8.205,1,0.0684,0.107,1.06e-5,0.446,0.518,61
+Jérémie Makiese,Belgium,Miss You,4,144.023,F# minor,F#,minor,0.625,0.527,6,-6.269,0,0.0529,0.239,0,0.13,0.28,63
+We Are Domi,Czech Republic,Lights Off - ESC Version,4,125.982,A minor,A,minor,0.584,0.766,9,-6.65,0,0.0715,0.176,1.19e-5,0.141,0.576,58
+Zdob și Zdub and Advahov Brothers,Moldova,Trenulețul (cu Frații Advahov),4,141.975,C major,C,major,0.701,0.884,0,-3.49,1,0.142,0.406,2.44e-5,0.319,0.955,59
+Ochman,Poland,River,4,139.862,G# major,G#,major,0.509,0.673,8,-4.769,1,0.0391,0.561,0,0.116,0.326,62
+wrs,Romania,Llámame,4,119.971,F minor,F,minor,0.755,0.757,5,-6.209,0,0.131,0.0564,0,0.154,0.661,59
+STEFAN,Estonia,Hope,4,122.919,A# minor,A#,minor,0.515,0.785,10,-4.791,0,0.0447,0.202,2.13e-5,0.102,0.577,59
+Konstrakta,Serbia,In corpore sano,4,135.944,C major,C,major,0.922,0.705,0,-7.457,1,0.0841,0.00641,1.47e-5,0.169,0.629,59
+Sheldon Riley,Australia,Not The Same,4,127.876,A# minor,A#,minor,0.355,0.429,10,-10.438,0,0.0388,0.662,0,0.145,0.376,59
+Monika LIU,Lithuania,Sentimentai,4,93.075,C major,C,major,0.675,0.555,0,-7.995,1,0.0325,0.0902,0.00411,0.314,0.5,60
+The Rasmus,Finland,Jezebel,4,116.009,B minor,B,minor,0.495,0.867,11,-4.111,0,0.0444,0.00298,0,0.0763,0.487,62
+Systur,Iceland,Með hækkandi sól,4,99.975,D minor,D,minor,0.578,0.519,2,-11.559,0,0.0303,0.583,0.0392,0.0656,0.35,59
+Malik Harris,Germany,Rockstars,4,81.004,G major,G,major,0.648,0.639,7,-6.429,1,0.23,0.453,0,0.38,0.521,68
+Nadir Rustamli,Azerbaijan,Fade to black,5,78.705,A minor,A,minor,0.34,0.297,9,-9.792,0,0.063,0.189,0,0.141,0.299,55
+Marius Bear,Switzerland,Boys Do Cry,4,115.973,F major,F,major,0.415,0.182,5,-10.504,1,0.036,0.866,0,0.108,0.388,57
+PIA MARIA,Austria,Halo (feat. PIA MARIA),4,149.913,G# major,G#,major,0.568,0.91,8,-5.172,1,0.0371,0.0017,0,0.528,0.691,69
+Citi Zēni,Latvia,Eat Your Salad,4,115.043,D major,D,major,0.702,0.818,2,-5.636,1,0.179,0.00654,0,0.217,0.586,60
+LPS,Slovenia,Disko,4,119.991,E minor,E,minor,0.683,0.611,4,-6.337,0,0.0287,0.00179,0,0.0531,0.601,58
+Ronela Hajati,Albania,SEKRET,4,100.005,F minor,F,minor,0.76,0.695,5,-6.088,0,0.0502,0.0451,0.00413,0.515,0.452,61
+Intelligent Music Project,Bulgaria,Intention,4,80.108,D major,D,major,0.517,0.836,2,-7.648,1,0.0338,0.0253,0.0213,0.244,0.718,54
+Mia Dimšić,Croatia,Guilty Pleasure,4,83.905,F major,F,major,0.529,0.587,5,-7.487,1,0.0609,0.12,0,0.142,0.513,57
+REDDI,Denmark,The Show,4,90.261,C major,C,major,0.312,0.803,0,-5.019,1,0.0562,0.0162,0,0.367,0.214,57
+Achille Lauro,San Marino,STRIPPER,4,140.064,A major,A,major,0.601,0.799,9,-5.697,1,0.0975,0.00315,0,0.0759,0.554,60
+Andromache,Cyprus,Ela,4,97.982,D# minor,D#,minor,0.659,0.626,3,-6.809,0,0.0906,0.244,0,0.0647,0.652,63
+Andrea,North Macedonia,Circles,4,143.965,C# minor,C#,minor,0.544,0.714,1,-4.598,0,0.0338,0.48,0,0.171,0.221,56
+Brooke,Ireland,That's Rich,4,121.967,A major,A,major,0.683,0.599,9,-4.423,1,0.0312,2.61e-4,0.00214,0.343,0.561,33
+Circus Mircus,Georgia,Lock Me In,4,106.959,D major,D,major,0.785,0.763,2,-9.152,1,0.0381,0.00439,9.49e-5,0.298,0.839,55
+Michael Ben David,Israel,I.M,4,120.016,G# minor,G#,minor,0.699,0.822,8,-6.571,0,0.0557,0.0119,0,0.127,0.451,57
+Emma Muscat,Malta,I Am What I Am,4,97.875,G major,G,major,0.563,0.712,7,-4.828,1,0.0296,0.037,0,0.0865,0.383,60
+Vladana,Montenegro,Breathe,3,76.905,G minor,G,minor,0.43,0.462,7,-6.846,0,0.0338,0.554,1.73e-6,0.102,0.197,55
