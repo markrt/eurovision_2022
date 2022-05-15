@@ -61,3 +61,9 @@ eurovision_2022 %>%
   filter(points_to == "Germany" &
            jury_rank == 11)
 # Australia and Austria
+
+# for whom was Germany a near miss?
+eurovision_2022 %>% 
+  filter(points_to == "Germany" &
+           jury_rank > 23)
+# Australia and Austria
