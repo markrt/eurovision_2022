@@ -1,0 +1,336 @@
+points_from,points_to,juror_a_ranking,juror_b_ranking,juror_c_ranking,juror_d_ranking,juror_e_ranking,jury_rank,televote_rank,jury_points,televote_points
+Australia,Azerbaijan,10,9,12,5,3,8,16,3,0
+Australia,Belgium,9,3,3,7,2,3,15,8,0
+Australia,Cyprus,16,15,17,17,11,17,12,0,0
+Australia,Czech Republic,8,6,8,8,7,9,4,2,7
+Australia,Estonia,4,11,9,3,6,6,8,5,3
+Australia,Finland,17,16,6,6,17,12,9,0,2
+Australia,Georgia,14,10,1,14,13,10,10,1,1
+Australia,Ireland,5,13,15,2,4,5,3,6,8
+Australia,Israel,2,2,13,1,16,2,11,10,0
+Australia,Malta,15,5,16,10,14,13,14,0,0
+Australia,Montenegro,13,8,14,12,8,14,17,0,0
+Australia,North Macedonia,7,1,5,13,5,4,13,7,0
+Australia,Poland,12,12,7,9,9,11,5,0,6
+Australia,Romania,11,14,10,15,10,16,7,0,4
+Australia,San Marino,6,17,11,16,12,15,6,0,5
+Australia,Serbia,3,7,4,11,15,7,1,4,12
+Australia,Sweden,1,4,2,4,1,1,2,12,10
+Azerbaijan,Cyprus,NA,NA,NA,NA,NA,NA,1,NA,12
+Azerbaijan,Israel,NA,NA,NA,NA,NA,10,2,1,10
+Azerbaijan,Sweden,NA,NA,NA,NA,NA,1,3,12,8
+Azerbaijan,Australia,NA,NA,NA,NA,NA,2,4,10,7
+Azerbaijan,Romania,NA,NA,NA,NA,NA,NA,5,NA,6
+Azerbaijan,Finland,NA,NA,NA,NA,NA,7,6,4,5
+Azerbaijan,Belgium,NA,NA,NA,NA,NA,6,7,5,4
+Azerbaijan,Malta,NA,NA,NA,NA,NA,9,8,2,3
+Azerbaijan,Czech Republic,NA,NA,NA,NA,NA,5,9,6,2
+Azerbaijan,Poland,NA,NA,NA,NA,NA,3,10,8,1
+Azerbaijan,Estonia,NA,NA,NA,NA,NA,4,NA,7,NA
+Azerbaijan,Serbia,NA,NA,NA,NA,NA,8,NA,3,NA
+Belgium,Australia,8,2,3,5,5,3,8,8,3
+Belgium,Azerbaijan,14,1,5,16,12,8,14,3,0
+Belgium,Cyprus,9,15,9,7,15,13,12,0,0
+Belgium,Czech Republic,12,7,12,4,2,7,6,4,5
+Belgium,Estonia,11,6,10,14,7,12,4,0,7
+Belgium,Finland,7,9,6,1,14,6,7,5,4
+Belgium,Georgia,3,16,16,15,8,11,15,0,0
+Belgium,Ireland,10,4,13,13,9,10,10,1,1
+Belgium,Israel,1,8,7,8,3,4,11,7,0
+Belgium,Malta,15,5,11,12,16,14,9,0,2
+Belgium,Montenegro,17,14,17,11,11,17,17,0,0
+Belgium,North Macedonia,16,12,8,10,13,15,16,0,0
+Belgium,Poland,6,11,4,3,6,5,1,6,12
+Belgium,Romania,13,10,15,9,17,16,3,0,8
+Belgium,San Marino,4,3,2,6,1,1,13,12,0
+Belgium,Serbia,2,17,14,17,10,9,5,2,6
+Belgium,Sweden,5,13,1,2,4,2,2,10,10
+Cyprus,Australia,3,4,3,2,3,2,7,10,4
+Cyprus,Azerbaijan,17,12,1,1,10,5,13,6,0
+Cyprus,Belgium,8,15,5,5,8,8,5,3,6
+Cyprus,Czech Republic,6,6,7,16,6,7,6,4,5
+Cyprus,Estonia,5,5,4,7,4,4,8,7,3
+Cyprus,Finland,7,11,12,11,7,9,9,2,2
+Cyprus,Georgia,11,7,15,14,14,14,16,0,0
+Cyprus,Ireland,12,10,6,10,11,10,14,1,0
+Cyprus,Israel,13,9,8,9,16,11,11,0,0
+Cyprus,Malta,16,13,10,6,13,12,10,0,1
+Cyprus,Montenegro,10,8,16,15,9,13,17,0,0
+Cyprus,North Macedonia,9,16,17,17,17,17,15,0,0
+Cyprus,Poland,2,3,9,4,2,3,3,8,8
+Cyprus,Romania,14,17,13,13,12,16,2,0,10
+Cyprus,San Marino,15,14,11,8,15,15,12,0,0
+Cyprus,Serbia,4,2,14,12,5,6,1,5,12
+Cyprus,Sweden,1,1,2,3,1,1,4,12,7
+Czech Republic,Australia,6,3,5,3,2,3,6,8,5
+Czech Republic,Azerbaijan,4,8,7,8,10,7,15,4,0
+Czech Republic,Belgium,8,6,4,5,7,5,13,6,0
+Czech Republic,Cyprus,11,15,10,16,15,13,12,0,0
+Czech Republic,Estonia,3,4,3,4,6,4,3,7,8
+Czech Republic,Finland,16,10,12,10,3,9,2,2,10
+Czech Republic,Georgia,5,7,6,6,9,6,11,5,0
+Czech Republic,Ireland,7,13,13,9,14,11,10,0,1
+Czech Republic,Israel,15,9,9,12,12,12,8,0,3
+Czech Republic,Malta,10,11,11,11,5,10,14,1,0
+Czech Republic,Montenegro,12,12,17,13,16,15,17,0,0
+Czech Republic,North Macedonia,2,2,2,2,4,2,9,10,2
+Czech Republic,Poland,9,5,8,7,8,8,4,3,7
+Czech Republic,Romania,13,14,16,15,17,16,7,0,4
+Czech Republic,San Marino,17,17,15,17,13,17,16,0,0
+Czech Republic,Serbia,14,16,14,14,11,14,1,0,12
+Czech Republic,Sweden,1,1,1,1,1,1,5,12,6
+Estonia,Australia,2,2,2,3,2,2,6,10,5
+Estonia,Azerbaijan,3,12,3,13,4,5,16,6,0
+Estonia,Belgium,5,6,11,7,10,6,4,5,7
+Estonia,Cyprus,11,15,15,8,8,13,12,0,0
+Estonia,Czech Republic,8,4,5,9,3,4,3,7,8
+Estonia,Finland,4,5,4,2,7,3,1,8,12
+Estonia,Georgia,15,3,17,15,6,8,10,3,1
+Estonia,Ireland,13,11,12,5,5,7,14,4,0
+Estonia,Israel,6,7,13,16,12,12,15,0,0
+Estonia,Malta,10,14,14,4,9,10,8,1,3
+Estonia,Montenegro,16,8,16,12,15,16,17,0,0
+Estonia,North Macedonia,14,10,9,10,16,14,13,0,0
+Estonia,Poland,12,13,10,11,14,15,5,0,6
+Estonia,Romania,9,9,8,6,13,9,9,2,2
+Estonia,San Marino,7,16,6,14,11,11,11,0,0
+Estonia,Serbia,17,17,7,17,17,17,7,0,4
+Estonia,Sweden,1,1,1,1,1,1,2,12,10
+Finland,Australia,5,2,2,6,3,2,5,10,6
+Finland,Azerbaijan,8,9,4,4,8,4,14,7,0
+Finland,Belgium,7,3,10,17,14,11,10,0,1
+Finland,Cyprus,4,15,13,7,5,8,12,3,0
+Finland,Czech Republic,1,12,12,8,7,5,4,6,7
+Finland,Estonia,13,10,5,15,2,7,1,4,12
+Finland,Georgia,14,17,15,5,12,15,9,0,2
+Finland,Ireland,12,4,11,9,16,12,13,0,0
+Finland,Israel,9,6,14,12,9,13,11,0,0
+Finland,Malta,15,16,16,10,4,14,16,0,0
+Finland,Montenegro,16,14,7,13,17,16,17,0,0
+Finland,North Macedonia,6,13,3,14,11,9,15,2,0
+Finland,Poland,11,8,6,11,6,10,6,1,5
+Finland,Romania,17,11,17,16,10,17,8,0,3
+Finland,San Marino,10,7,9,2,13,6,7,5,4
+Finland,Serbia,2,5,8,1,15,3,3,8,8
+Finland,Sweden,3,1,1,3,1,1,2,12,10
+Georgia,Serbia,NA,NA,NA,NA,NA,9,1,2,12
+Georgia,Israel,NA,NA,NA,NA,NA,NA,2,NA,10
+Georgia,Sweden,NA,NA,NA,NA,NA,1,3,12,8
+Georgia,Estonia,NA,NA,NA,NA,NA,4,4,7,7
+Georgia,Finland,NA,NA,NA,NA,NA,8,5,3,6
+Georgia,Romania,NA,NA,NA,NA,NA,NA,6,NA,5
+Georgia,Czech Republic,NA,NA,NA,NA,NA,5,7,6,4
+Georgia,Poland,NA,NA,NA,NA,NA,3,8,8,3
+Georgia,Australia,NA,NA,NA,NA,NA,2,9,10,2
+Georgia,Cyprus,NA,NA,NA,NA,NA,NA,10,NA,1
+Georgia,Belgium,NA,NA,NA,NA,NA,6,NA,5,NA
+Georgia,Azerbaijan,NA,NA,NA,NA,NA,7,NA,4,NA
+Georgia,Malta,NA,NA,NA,NA,NA,10,NA,1,NA
+Germany,Australia,1,6,10,9,5,5,8,6,3
+Germany,Azerbaijan,11,2,8,2,4,2,16,10,0
+Germany,Belgium,2,5,15,5,7,6,10,5,1
+Germany,Cyprus,14,13,14,7,13,15,12,0,0
+Germany,Czech Republic,12,10,16,8,8,13,5,0,6
+Germany,Estonia,7,7,2,6,9,7,7,4,4
+Germany,Finland,5,11,7,10,6,10,4,1,7
+Germany,Georgia,3,8,1,18,17,8,13,3,0
+Germany,Ireland,16,16,18,17,18,18,14,0,0
+Germany,Israel,4,9,11,15,2,9,9,2,2
+Germany,Malta,6,17,9,12,15,14,17,0,0
+Germany,Montenegro,10,14,17,16,11,16,18,0,0
+Germany,North Macedonia,8,4,3,4,1,1,15,12,0
+Germany,Poland,9,12,6,11,14,11,1,0,12
+Germany,Romania,17,1,12,3,3,3,6,8,5
+Germany,San Marino,15,18,4,13,12,12,11,0,0
+Germany,Serbia,18,15,13,14,10,17,2,0,10
+Germany,Sweden,13,3,5,1,16,4,3,7,8
+Ireland,Australia,12,4,6,4,10,6,4,5,7
+Ireland,Azerbaijan,17,7,13,12,7,13,15,0,0
+Ireland,Belgium,7,3,12,5,14,9,9,2,2
+Ireland,Cyprus,6,10,7,10,3,7,13,4,0
+Ireland,Czech Republic,4,15,4,2,1,2,3,10,8
+Ireland,Estonia,3,2,10,7,8,3,5,8,6
+Ireland,Finland,11,12,15,16,13,16,10,0,1
+Ireland,Georgia,10,16,14,11,17,15,12,0,0
+Ireland,Israel,16,6,17,3,4,8,14,3,0
+Ireland,Malta,1,9,11,13,6,5,8,6,3
+Ireland,Montenegro,9,17,16,15,15,17,17,0,0
+Ireland,North Macedonia,8,8,3,14,11,10,16,1,0
+Ireland,Poland,13,11,5,8,12,12,1,0,12
+Ireland,Romania,14,14,8,9,9,14,6,0,5
+Ireland,San Marino,15,13,9,6,5,11,11,0,0
+Ireland,Serbia,5,5,2,17,16,4,7,7,4
+Ireland,Sweden,2,1,1,1,2,1,2,12,10
+Israel,Australia,2,1,3,2,3,2,5,10,6
+Israel,Azerbaijan,11,9,12,10,11,12,15,0,0
+Israel,Belgium,3,3,6,4,4,4,10,7,1
+Israel,Cyprus,16,13,11,16,17,16,12,0,0
+Israel,Czech Republic,5,8,9,6,5,5,2,6,10
+Israel,Estonia,7,15,7,5,13,8,7,3,4
+Israel,Finland,9,4,5,9,8,6,11,5,0
+Israel,Georgia,13,16,17,11,10,14,6,0,5
+Israel,Ireland,10,14,16,12,14,15,8,0,3
+Israel,Malta,6,10,10,13,6,9,14,2,0
+Israel,Montenegro,15,17,15,14,12,17,17,0,0
+Israel,North Macedonia,14,6,14,15,9,11,16,0,0
+Israel,Poland,4,7,2,3,2,3,4,8,7
+Israel,Romania,8,5,8,8,7,7,9,4,2
+Israel,San Marino,12,12,13,7,15,13,13,0,0
+Israel,Serbia,17,11,4,17,16,10,3,1,8
+Israel,Sweden,1,2,1,1,1,1,1,12,12
+Malta,Australia,3,6,2,1,2,2,4,10,7
+Malta,Azerbaijan,2,15,8,12,13,7,15,4,0
+Malta,Belgium,4,14,16,16,15,14,12,0,0
+Malta,Cyprus,8,17,9,13,17,15,10,0,1
+Malta,Czech Republic,6,3,4,3,9,4,9,7,2
+Malta,Estonia,5,4,3,6,3,3,11,8,0
+Malta,Finland,14,8,14,4,11,8,5,3,6
+Malta,Georgia,15,7,13,9,8,10,16,1,0
+Malta,Ireland,9,9,17,17,14,16,8,0,3
+Malta,Israel,10,5,11,10,12,9,14,2,0
+Malta,Montenegro,16,10,15,8,7,13,17,0,0
+Malta,North Macedonia,13,12,5,7,5,6,13,5,0
+Malta,Poland,7,2,6,5,6,5,7,6,4
+Malta,Romania,11,13,7,11,10,12,6,0,5
+Malta,San Marino,12,16,10,14,16,17,3,0,8
+Malta,Serbia,17,11,12,15,4,11,1,0,12
+Malta,Sweden,1,1,1,2,1,1,2,12,10
+Montenegro,Serbia,NA,NA,NA,NA,NA,4,1,7,12
+Montenegro,North Macedonia,NA,NA,NA,NA,NA,10,2,1,10
+Montenegro,Cyprus,NA,NA,NA,NA,NA,NA,3,NA,8
+Montenegro,Estonia,NA,NA,NA,NA,NA,5,4,6,7
+Montenegro,Sweden,NA,NA,NA,NA,NA,1,5,12,6
+Montenegro,Belgium,NA,NA,NA,NA,NA,3,6,8,5
+Montenegro,Czech Republic,NA,NA,NA,NA,NA,9,7,2,4
+Montenegro,Australia,NA,NA,NA,NA,NA,2,8,10,3
+Montenegro,Poland,NA,NA,NA,NA,NA,8,9,3,2
+Montenegro,Malta,NA,NA,NA,NA,NA,NA,10,NA,1
+Montenegro,Azerbaijan,NA,NA,NA,NA,NA,6,NA,5,NA
+Montenegro,Finland,NA,NA,NA,NA,NA,7,NA,4,NA
+North Macedonia,Australia,3,1,9,13,15,6,14,5,0
+North Macedonia,Azerbaijan,7,14,7,6,14,10,16,1,0
+North Macedonia,Belgium,5,4,2,4,2,2,7,10,4
+North Macedonia,Cyprus,11,12,14,14,17,17,6,0,5
+North Macedonia,Czech Republic,8,15,13,9,8,12,5,0,6
+North Macedonia,Estonia,12,9,11,5,7,9,10,2,1
+North Macedonia,Finland,16,16,3,3,6,7,3,4,8
+North Macedonia,Georgia,10,13,16,12,11,15,17,0,0
+North Macedonia,Ireland,15,8,15,16,12,16,11,0,0
+North Macedonia,Israel,14,7,6,7,16,11,13,0,0
+North Macedonia,Malta,2,3,12,11,4,5,8,6,3
+North Macedonia,Montenegro,6,5,5,10,13,8,2,3,10
+North Macedonia,Poland,4,2,4,8,3,3,9,8,2
+North Macedonia,Romania,13,10,10,17,10,13,12,0,0
+North Macedonia,San Marino,17,17,17,15,5,14,15,0,0
+North Macedonia,Serbia,1,11,1,1,9,1,1,12,12
+North Macedonia,Sweden,9,6,8,2,1,4,4,7,7
+Poland,Sweden,NA,NA,NA,NA,NA,1,1,12,12
+Poland,Estonia,NA,NA,NA,NA,NA,4,2,7,10
+Poland,Czech Republic,NA,NA,NA,NA,NA,3,3,8,8
+Poland,Serbia,NA,NA,NA,NA,NA,NA,4,NA,7
+Poland,Finland,NA,NA,NA,NA,NA,7,5,4,6
+Poland,Romania,NA,NA,NA,NA,NA,NA,6,NA,5
+Poland,San Marino,NA,NA,NA,NA,NA,NA,7,NA,4
+Poland,Cyprus,NA,NA,NA,NA,NA,NA,8,NA,3
+Poland,Australia,NA,NA,NA,NA,NA,2,9,10,2
+Poland,Belgium,NA,NA,NA,NA,NA,5,10,6,1
+Poland,North Macedonia,NA,NA,NA,NA,NA,6,NA,5,NA
+Poland,Azerbaijan,NA,NA,NA,NA,NA,8,NA,3,NA
+Poland,San Marino,NA,NA,NA,NA,NA,9,NA,2,NA
+Poland,Israel,NA,NA,NA,NA,NA,10,NA,1,NA
+Romania,Sweden,NA,NA,NA,NA,NA,1,1,12,12
+Romania,Serbia,NA,NA,NA,NA,NA,NA,2,NA,10
+Romania,Estonia,NA,NA,NA,NA,NA,4,3,7,8
+Romania,Cyprus,NA,NA,NA,NA,NA,NA,4,NA,7
+Romania,Czech Republic,NA,NA,NA,NA,NA,3,5,8,6
+Romania,Belgium,NA,NA,NA,NA,NA,5,6,6,5
+Romania,Finland,NA,NA,NA,NA,NA,7,7,4,4
+Romania,Australia,NA,NA,NA,NA,NA,2,8,10,3
+Romania,San Marino,NA,NA,NA,NA,NA,9,9,2,2
+Romania,Poland,NA,NA,NA,NA,NA,NA,10,NA,1
+Romania,Azerbaijan,NA,NA,NA,NA,NA,6,NA,5,NA
+Romania,San Marino,NA,NA,NA,NA,NA,8,NA,3,NA
+Romania,Israel,NA,NA,NA,NA,NA,10,NA,1,NA
+San Marino,Serbia,NA,NA,NA,NA,NA,9,1,2,12
+San Marino,Sweden,NA,NA,NA,NA,NA,1,2,12,10
+San Marino,Romania,NA,NA,NA,NA,NA,NA,3,NA,8
+San Marino,Australia,NA,NA,NA,NA,NA,2,4,10,7
+San Marino,Czech Republic,NA,NA,NA,NA,NA,5,5,6,6
+San Marino,Poland,NA,NA,NA,NA,NA,3,6,8,5
+San Marino,Cyprus,NA,NA,NA,NA,NA,NA,7,NA,4
+San Marino,Finland,NA,NA,NA,NA,NA,8,8,3,3
+San Marino,Israel,NA,NA,NA,NA,NA,NA,9,NA,2
+San Marino,Belgium,NA,NA,NA,NA,NA,6,10,5,1
+San Marino,Estonia,NA,NA,NA,NA,NA,4,NA,7,NA
+San Marino,Azerbaijan,NA,NA,NA,NA,NA,7,NA,4,NA
+San Marino,Malta,NA,NA,NA,NA,NA,10,NA,1,NA
+Serbia,Australia,12,5,6,10,9,9,11,2,0
+Serbia,Azerbaijan,4,2,3,5,7,3,17,8,0
+Serbia,Belgium,3,10,7,4,3,5,8,6,3
+Serbia,Cyprus,13,13,9,13,13,12,2,0,10
+Serbia,Czech Republic,9,4,5,9,4,7,4,4,7
+Serbia,Estonia,5,3,2,2,6,2,7,10,4
+Serbia,Finland,1,8,4,7,11,6,10,5,1
+Serbia,Georgia,15,12,11,14,14,13,13,0,0
+Serbia,Ireland,10,16,15,12,15,14,14,0,0
+Serbia,Israel,14,11,12,15,16,15,15,0,0
+Serbia,Malta,16,15,16,16,12,16,9,0,2
+Serbia,Montenegro,2,14,14,3,1,4,1,7,12
+Serbia,North Macedonia,11,7,10,11,5,10,3,1,8
+Serbia,Poland,7,6,8,6,8,8,16,3,0
+Serbia,Romania,6,9,13,8,10,11,5,0,6
+Serbia,San Marino,17,17,17,17,17,17,12,0,0
+Serbia,Sweden,8,1,1,1,2,1,6,12,5
+Spain,Australia,2,2,2,1,5,2,11,10,0
+Spain,Azerbaijan,1,1,1,5,1,1,16,12,0
+Spain,Belgium,3,3,5,2,3,3,12,8,0
+Spain,Cyprus,17,18,12,16,14,17,10,0,1
+Spain,Czech Republic,14,11,7,13,7,11,2,0,10
+Spain,Estonia,10,9,8,17,9,12,9,0,2
+Spain,Finland,7,7,16,6,10,9,5,2,6
+Spain,Georgia,18,17,15,12,11,15,15,0,0
+Spain,Ireland,16,14,13,15,15,16,4,0,7
+Spain,Israel,6,8,11,4,17,8,13,3,0
+Spain,Malta,12,16,10,11,16,14,14,0,0
+Spain,Montenegro,15,13,18,3,13,10,17,1,0
+Spain,North Macedonia,9,12,17,14,12,13,18,0,0
+Spain,Poland,4,5,4,8,4,4,7,7,4
+Spain,Romania,8,10,3,9,8,7,1,4,12
+Spain,San Marino,13,15,14,18,18,18,8,0,3
+Spain,Serbia,5,6,9,7,6,6,6,5,5
+Spain,Sweden,11,4,6,10,2,5,3,6,8
+Sweden,Australia,3,1,1,1,14,1,7,12,4
+Sweden,Azerbaijan,7,3,3,9,13,6,16,5,0
+Sweden,Belgium,12,4,8,5,1,3,6,8,5
+Sweden,Cyprus,4,15,6,11,4,9,10,2,1
+Sweden,Czech Republic,6,13,5,8,2,5,5,6,6
+Sweden,Estonia,1,9,4,4,10,2,3,10,8
+Sweden,Finland,14,5,7,3,6,7,1,4,12
+Sweden,Georgia,11,17,17,17,17,17,13,0,0
+Sweden,Ireland,9,16,9,14,8,14,11,0,0
+Sweden,Israel,5,7,12,2,12,8,14,3,0
+Sweden,Malta,2,2,10,16,9,4,9,7,2
+Sweden,Montenegro,17,14,13,15,15,16,17,0,0
+Sweden,North Macedonia,15,10,14,7,5,12,15,0,0
+Sweden,Poland,10,11,2,6,16,10,4,1,7
+Sweden,Romania,8,12,11,13,3,11,8,0,3
+Sweden,San Marino,16,6,16,12,7,13,12,0,0
+Sweden,Serbia,13,8,15,10,11,15,2,0,10
+United Kingdom,Australia,4,1,10,16,18,8,11,3,0
+United Kingdom,Azerbaijan,1,6,3,15,14,3,17,8,0
+United Kingdom,Belgium,6,7,4,11,7,9,15,2,0
+United Kingdom,Cyprus,14,17,16,8,15,18,10,0,1
+United Kingdom,Czech Republic,7,8,8,3,1,2,3,10,8
+United Kingdom,Estonia,18,5,2,6,9,7,9,4,2
+United Kingdom,Finland,12,14,13,9,16,17,7,0,4
+United Kingdom,Georgia,2,11,14,12,17,12,12,0,0
+United Kingdom,Ireland,9,16,7,4,10,11,1,0,12
+United Kingdom,Israel,5,3,12,13,11,10,14,1,0
+United Kingdom,Malta,17,15,6,18,13,16,13,0,0
+United Kingdom,Montenegro,16,18,9,17,6,15,18,0,0
+United Kingdom,North Macedonia,8,4,17,7,2,4,16,7,0
+United Kingdom,Poland,3,9,5,14,4,5,2,6,10
+United Kingdom,Romania,13,13,11,10,8,14,4,0,7
+United Kingdom,San Marino,15,12,18,5,12,13,8,0,3
+United Kingdom,Serbia,10,10,15,2,3,6,5,5,6
+United Kingdom,Sweden,11,2,1,1,5,1,6,12,5
