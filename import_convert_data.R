@@ -13,6 +13,9 @@
 # on account of the way that Eurovision includes little flag circles
 # this may present issues with merges, sorry
 
+# i've tried to deal with this in the str_sub bit but who knows what other 
+# problems doing so will introduce
+
 # anyway, this script converts the copied+pasted data into a long csv for anyone to use
 
 # load packages
@@ -32,7 +35,11 @@ mad <- path %>%
 
 # rename columns, export
 mad %>% 
-  select(-Juror) %>% 
+  select(-Juror)  %>%
+  mutate(points_to = 
+           str_sub(points_to,
+                   2,
+                   -1)) %>% 
   rename(juror_a_ranking = 
            A,
          juror_b_ranking = 
@@ -56,7 +63,11 @@ mad %>%
 # clean up the jury_rank and televoting_rank columns,
 # add points
 mad %>% 
-  select(-Juror) %>% 
+  select(-Juror) %>%
+  mutate(points_to = 
+           str_sub(points_to,
+                   2,
+                   -1))%>% 
   rename(juror_a_ranking = 
            A,
          juror_b_ranking = 

@@ -2,7 +2,6 @@
 
 # load packages
 library(tidyverse)
-library(ggbeeswarm)
 
 # load data
 spotify_data <- 
