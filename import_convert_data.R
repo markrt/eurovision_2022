@@ -36,10 +36,6 @@ mad <- path %>%
 # rename columns, export
 mad %>% 
   select(-Juror)  %>%
-  mutate(points_to = 
-           str_sub(points_to,
-                   2,
-                   -1)) %>% 
   rename(juror_a_ranking = 
            A,
          juror_b_ranking = 
@@ -57,17 +53,17 @@ mad %>%
          points_to = 
            "Country"
   ) %>% 
+  mutate(points_to = 
+           str_sub(points_to,
+                   2,
+                   -1)) %>% 
   write_csv("eurovision_2022_clean.csv")
 
 
 # clean up the jury_rank and televoting_rank columns,
 # add points
 mad %>% 
-  select(-Juror) %>%
-  mutate(points_to = 
-           str_sub(points_to,
-                   2,
-                   -1))%>% 
+  select(-Juror) %>% 
   rename(juror_a_ranking = 
            A,
          juror_b_ranking = 
@@ -84,7 +80,11 @@ mad %>%
            `Televoting rank`,
          points_to = 
            "Country"
-  ) %>% 
+  ) %>%
+  mutate(points_to = 
+           str_sub(points_to,
+                   2,
+                   -1))%>% 
   mutate(jury_rank = as.numeric(str_squish(str_sub(jury_rank, -4, -3)))) %>% 
   mutate(televote_rank = as.numeric(str_squish(str_sub(televote_rank, -4, -3)))) %>% 
   mutate(jury_points = if_else(jury_rank == 1,
