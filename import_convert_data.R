@@ -3,7 +3,17 @@
 # (and equivalents for all other countries)
 # into an excel sheet
 
-# this script converts it into a long csv for anyone to use
+# nb there are a few countries where the format is different:
+# Azerbaijan, Georgia, Montenegro, Poland, Romania, San Marino
+# due to "irregularities"
+
+# i've done my best to provide something usable, but there may be issues
+
+# there are also issues with trailing blanks in the country names
+# on account of the way that Eurovision includes little flag circles
+# this may present issues with merges, sorry
+
+# anyway, this script converts the copied+pasted data into a long csv for anyone to use
 
 # load packages
 library(tidyverse)

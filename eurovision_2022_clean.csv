@@ -23,6 +23,7 @@ Albania, Spain,3,9,10,7,9,5 points 6th,7 points 4th
 Albania, Sweden,7,1,4,4,5,8 points 3rd,11th
 Albania, Switzerland,22,11,20,15,13,18th,23rd
 Albania, Ukraine,4,3,3,6,4,7 points 4th,10 points 2nd
+Albania, United Kingdom,2,4,1,2,1,10 points 2nd,4 points 7th
 Armenia, Australia,17,20,17,23,21,22nd,21st
 Armenia, Azerbaijan,24,24,24,24,24,24th,24th
 Armenia, Belgium,19,10,20,22,13,17th,16th
@@ -106,9 +107,9 @@ Azerbaijan, Sweden,NA,NA,NA,NA,NA,8 points 3rd,4 points 7th
 Azerbaijan, Greece,NA,NA,NA,NA,NA,3 points 8th,3 points 8th
 Azerbaijan, Australia,NA,NA,NA,NA,NA,NA,2 points 9th
 Azerbaijan, Poland,NA,NA,NA,NA,NA,2 points 9th,1 point 10th
-Azerbaijan,Portugal,NA,NA,NA,NA,NA,7 points 4th,NA
-Azerbaijan,Netherlands,NA,NA,NA,NA,NA,4 points 7th,NA
-Azerbaijan,France,NA,NA,NA,NA,NA,1 point 10th,NA
+Azerbaijan, Portugal,NA,NA,NA,NA,NA,7 points 4th,NA
+Azerbaijan, Netherlands,NA,NA,NA,NA,NA,4 points 7th,NA
+Azerbaijan, France,NA,NA,NA,NA,NA,1 point 10th,NA
 Belgium, Armenia,16,13,14,21,23,22nd,13th
 Belgium, Australia,8,5,10,8,10,1 point 10th,17th
 Belgium, Azerbaijan,19,1,12,15,9,3 points 8th,22nd
@@ -339,12 +340,12 @@ Georgia, United Kingdom,NA,NA,NA,NA,NA,12 points 1st,4 points 7th
 Georgia, Azerbaijan,NA,NA,NA,NA,NA,NA,3 points 8th
 Georgia, Finland,NA,NA,NA,NA,NA,NA,2 points 9th
 Georgia, Greece,NA,NA,NA,NA,NA,3 points 8th,1 point 10th
-Georgia,Italy,NA,NA,NA,NA,NA,10 points 2nd,NA
-Georgia,Sweden,NA,NA,NA,NA,NA,8 points 3rd,NA
-Georgia,Portugal,NA,NA,NA,NA,NA,7 points 4th,NA
-Georgia,Netherlands,NA,NA,NA,NA,NA,4 points 7th,NA
-Georgia,Poland,NA,NA,NA,NA,NA,2 points 9th,NA
-Georgia,France,NA,NA,NA,NA,NA,1 point 10th,NA
+Georgia, Italy,NA,NA,NA,NA,NA,10 points 2nd,NA
+Georgia, Sweden,NA,NA,NA,NA,NA,8 points 3rd,NA
+Georgia, Portugal,NA,NA,NA,NA,NA,7 points 4th,NA
+Georgia, Netherlands,NA,NA,NA,NA,NA,4 points 7th,NA
+Georgia, Poland,NA,NA,NA,NA,NA,2 points 9th,NA
+Georgia, France,NA,NA,NA,NA,NA,1 point 10th,NA
 Germany, Armenia,16,19,15,18,9,20th,14th
 Germany, Australia,10,12,1,12,20,5 points 6th,20th
 Germany, Azerbaijan,8,20,2,8,8,6 points 5th,23rd
@@ -599,10 +600,10 @@ Montenegro, Poland,NA,NA,NA,NA,NA,NA,4 points 7th
 Montenegro, Estonia,NA,NA,NA,NA,NA,NA,3 points 8th
 Montenegro, Norway,NA,NA,NA,NA,NA,NA,2 points 9th
 Montenegro, Sweden,NA,NA,NA,NA,NA,7 points 4th,1 point 10th
-Montenegro,United Kingdom,NA,NA,NA,NA,NA,5 points 6th,NA
-Montenegro,Netherlands,NA,NA,NA,NA,NA,3 points 8th,NA
-Montenegro,Lithuania,NA,NA,NA,NA,NA,2 points 9th,NA
-Montenegro,Azerbaijan,NA,NA,NA,NA,NA,1 point 10th,NA
+Montenegro, United Kingdom,NA,NA,NA,NA,NA,5 points 6th,NA
+Montenegro, Netherlands,NA,NA,NA,NA,NA,3 points 8th,NA
+Montenegro, Lithuania,NA,NA,NA,NA,NA,2 points 9th,NA
+Montenegro, Azerbaijan,NA,NA,NA,NA,NA,1 point 10th,NA
 Netherlands, Armenia,8,11,18,15,16,17th,12th
 Netherlands, Australia,16,4,6,1,5,7 points 4th,14th
 Netherlands, Azerbaijan,17,5,20,10,17,14th,19th
@@ -686,11 +687,11 @@ Poland, Norway,NA,NA,NA,NA,NA,NA,4 points 7th
 Poland, United Kingdom,NA,NA,NA,NA,NA,8 points 3rd,3 points 8th
 Poland, Lithuania,NA,NA,NA,NA,NA,NA,2 points 9th
 Poland, Portugal,NA,NA,NA,NA,NA,7 points 4th,1 point 10th
-Poland,Australia,NA,NA,NA,NA,NA,6 points 5th,NA
-Poland,Switzerland,NA,NA,NA,NA,NA,5 points 6th,NA
-Poland,Italy,NA,NA,NA,NA,NA,4 points 7th,NA
-Poland,Netherlands,NA,NA,NA,NA,NA,3 points 8th,NA
-Poland,Greece,NA,NA,NA,NA,NA,2 points 9th,NA
+Poland, Australia,NA,NA,NA,NA,NA,6 points 5th,NA
+Poland, Switzerland,NA,NA,NA,NA,NA,5 points 6th,NA
+Poland, Italy,NA,NA,NA,NA,NA,4 points 7th,NA
+Poland, Netherlands,NA,NA,NA,NA,NA,3 points 8th,NA
+Poland, Greece,NA,NA,NA,NA,NA,2 points 9th,NA
 Portugal, Armenia,8,6,13,7,15,1 point 10th,15th
 Portugal, Australia,21,15,22,13,23,22nd,21st
 Portugal, Azerbaijan,7,11,9,21,19,14th,24th
@@ -725,11 +726,11 @@ Romania, Italy,NA,NA,NA,NA,NA,4 points 7th,4 points 7th
 Romania, United Kingdom,NA,NA,NA,NA,NA,8 points 3rd,3 points 8th
 Romania, Norway,NA,NA,NA,NA,NA,NA,2 points 9th
 Romania, France,NA,NA,NA,NA,NA,NA,1 point 10th
-Romania,Portugal,NA,NA,NA,NA,NA,7 points 4th,NA
-Romania,Australia,NA,NA,NA,NA,NA,6 points 5th,NA
-Romania,Switzerland,NA,NA,NA,NA,NA,5 points 6th,NA
-Romania,Netherlands,NA,NA,NA,NA,NA,3 points 8th,NA
-Romania,Greece,NA,NA,NA,NA,NA,2 points 9th,NA
+Romania, Portugal,NA,NA,NA,NA,NA,7 points 4th,NA
+Romania, Australia,NA,NA,NA,NA,NA,6 points 5th,NA
+Romania, Switzerland,NA,NA,NA,NA,NA,5 points 6th,NA
+Romania, Netherlands,NA,NA,NA,NA,NA,3 points 8th,NA
+Romania, Greece,NA,NA,NA,NA,NA,2 points 9th,NA
 San Marino, Ukraine,NA,NA,NA,NA,NA,2 points 9th,12 points 1st
 San Marino, Spain,NA,NA,NA,NA,NA,12 points 1st,10 points 2nd
 San Marino, Serbia,NA,NA,NA,NA,NA,NA,8 points 3rd
@@ -740,10 +741,10 @@ San Marino, Moldova,NA,NA,NA,NA,NA,NA,4 points 7th
 San Marino, Sweden,NA,NA,NA,NA,NA,5 points 6th,3 points 8th
 San Marino, Norway,NA,NA,NA,NA,NA,NA,2 points 9th
 San Marino, Romania,NA,NA,NA,NA,NA,NA,1 point 10th
-San Marino,Azerbaijan,NA,NA,NA,NA,NA,7 points 4th,NA
-San Marino,Australia,NA,NA,NA,NA,NA,6 points 5th,NA
-San Marino,Poland,NA,NA,NA,NA,NA,4 points 7th,NA
-San Marino,Switzerland,NA,NA,NA,NA,NA,1 point 10th,NA
+San Marino, Azerbaijan,NA,NA,NA,NA,NA,7 points 4th,NA
+San Marino, Australia,NA,NA,NA,NA,NA,6 points 5th,NA
+San Marino, Poland,NA,NA,NA,NA,NA,4 points 7th,NA
+San Marino, Switzerland,NA,NA,NA,NA,NA,1 point 10th,NA
 Serbia, Armenia,16,15,5,10,12,12th,19th
 Serbia, Australia,14,18,14,7,11,14th,20th
 Serbia, Azerbaijan,4,8,2,1,2,12 points 1st,22nd
